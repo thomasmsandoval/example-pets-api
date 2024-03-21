@@ -66,4 +66,5 @@ group :test do
   gem "selenium-webdriver"
   # Use ActiveModel has_secure_password
   gem "bcrypt", "~> 3.1.7"
+  gem "jwt"
 end
